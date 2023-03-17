@@ -7,3 +7,5 @@ Anthropologie has always been to surprise and delight you with unexpected, disti
 </ul>
 
 # Highlights
+
+### Home Page
