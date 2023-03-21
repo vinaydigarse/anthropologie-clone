@@ -9,4 +9,8 @@ Anthropologie has always been to surprise and delight you with unexpected, disti
 # Highlights
 
 ### Home Page
-![image](./anthropolgise/image/Screenshot%202023-03-14%20093255.jpg)
+![image](./anthropolgise/image/Screenshot%202023-03-17%20155628.jpg)
+![image](./anthropolgise/image/Screenshot%202023-03-17%20155655.jpg)
+![image](./anthropolgise/image/Screenshot%202023-03-17%20155856.jpg)
+![image](./anthropolgise/image/Screenshot%202023-03-17%20155927.jpg)
+![image](./anthropolgise/image/Screenshot%202023-03-17%20155828.jpg)
